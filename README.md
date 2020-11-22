@@ -1,5 +1,5 @@
 # [php] hahalib
-haha libary - communication
+串接函式庫
 
 
 <br>
