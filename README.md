@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<img src='https://github.com/hahaha0417/php_hahalib/blob/main/hahalib.png' width=100%>
+<img src='https://github.com/hahaha0417/php_hahalib/blob/master/hahalib.png' width=100%>
 
 
 <br>
